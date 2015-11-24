@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+####About
+
+I am going to be in the top 10 white hat hackers.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am Jonny.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[My Email](jonnychoi@seoulchristian.org)
