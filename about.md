@@ -14,4 +14,4 @@ I am Jonny.
 
 ### Contact me
 
-[My Email](jonnychoi@seoulchristian.org)
+[My Email](mailto:jonnychoi@seoulchristian.org)
