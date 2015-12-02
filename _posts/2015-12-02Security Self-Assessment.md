@@ -1,4 +1,7 @@
-#### 2015/12/02
+---
+layout: post
+title: Security Self-Assessment
+---
 
 ###Post about "What are the ways of hackers cracking your computer, why, and how can you defend it?"
 
